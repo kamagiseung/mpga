@@ -204,7 +204,7 @@ p {
   background-color: #e7f8f600;
   flex-flow: column;
   width: 100%;
-  max-width: 1100px;
+  max-width: 1340px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -433,7 +433,7 @@ p {
 .container1100 {
   flex-flow: column;
   align-items: flex-start;
-  max-width: 1100px;
+  max-width: 1340px;
   display: flex;
 }
 
@@ -455,7 +455,7 @@ p {
 }
 
 .container-9 {
-  max-width: 1100px;
+  max-width: 1340px;
 }
 
 .btn-secondary {
@@ -738,7 +738,7 @@ p {
   }
 
   .content-1100 {
-    max-width: 1100px;
+    max-width: 1340px;
   }
 
   .btn-primary {
@@ -808,7 +808,7 @@ p {
   }
 
   .container1100 {
-    max-width: 1100px;
+    max-width: 1340px;
   }
 
   .dropdown-list-3 {
@@ -885,7 +885,7 @@ p {
   }
 
   .nav-container {
-    max-width: 1100px;
+    max-width: 1340px;
   }
 
   .section-header {
@@ -1449,6 +1449,7 @@ p {
     justify-content: space-around;
     align-items: center;
     display: flex;
+    max-width: 1340px;
   }
 
   .brand.w--current {
