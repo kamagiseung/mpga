@@ -430,13 +430,6 @@ p {
   font-weight: 800;
 }
 
-.hero-section {
-  background-image: linear-gradient(#192513f0, #192513f0), url('../images/golf-bw.jpg');
-  background-position: 0 0, 0 0;
-  background-size: auto, auto;
-  height: 640px;
-}
-
 .container1100 {
   flex-flow: column;
   align-items: flex-start;
