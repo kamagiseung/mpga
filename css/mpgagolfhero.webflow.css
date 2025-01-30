@@ -430,12 +430,6 @@ p {
   font-weight: 800;
 }
 
-.hero-section {
-  background-image: linear-gradient(#192513f0, #192513f0), url('../images/golf-bw.jpg');
-  background-position: 0 0, 0 0;
-  background-size: auto, auto;
-  height: 640px;
-}
 
 .container1100 {
   flex-flow: column;
@@ -514,17 +508,6 @@ p {
   left: auto;
 }
 
-.body-2 {
-  background-image: url('../images/bg.jpg');
-  background-position: 0 0;
-  background-size: auto;
-}
-
-.sign-up-form-block {
-  background-image: linear-gradient(#fff, #fff);
-  border-radius: 16px;
-  padding: 40px 40px 64px;
-}
 
 .page-wrapper-2 {
   max-width: 480px;
@@ -559,7 +542,7 @@ p {
 
 .hero-section {
   background-color: var(--background--light-green);
-  background-image: url('../images/golfer.png');
+  background-image: url('https://mpga-78e7hmpr5-kamagiseungs-projects.vercel.app/images/golfer.png');
   background-position: 100% 0;
   background-repeat: no-repeat;
   background-size: contain;
@@ -720,7 +703,7 @@ p {
 }
 
 .hero-section-mobile {
-  background-image: url('../images/golfer.png'), linear-gradient(#fafff4f0, #fafff4f0);
+  background-image: url('https://mpga-78e7hmpr5-kamagiseungs-projects.vercel.app/images/golfer-p-500.png'), linear-gradient(#fafff4f0, #fafff4f0);
   background-position: 100% 0, 0 0;
   background-repeat: no-repeat, repeat;
   background-size: contain, auto;
@@ -875,7 +858,7 @@ p {
   }
 
   .hero-div {
-    background-image: url('../images/golfer.png');
+    background-image: url('https://mpga-78e7hmpr5-kamagiseungs-projects.vercel.app/images/golfer.png');
     background-position: 100% 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1076,7 +1059,7 @@ p {
   }
 
   .hero-section {
-    background-image: url('../images/golfer.png'), linear-gradient(#ebf0e6, #ebf0e6);
+    background-image: url('https://mpga-78e7hmpr5-kamagiseungs-projects.vercel.app/images/golfer.png'), linear-gradient(#ebf0e6, #ebf0e6);
     background-position: 100% 100%, 0 0;
     background-size: 60%, auto;
     height: auto;
@@ -1144,7 +1127,7 @@ p {
   }
 
   .hero-section-mobile {
-    background-image: url('../images/golfer.png'), linear-gradient(#ebf0e6, #ebf0e6);
+    background-image: url('https://mpga-78e7hmpr5-kamagiseungs-projects.vercel.app/images/golfer-p-500.png'), linear-gradient(#ebf0e6, #ebf0e6);
     background-position: 100% 100%, 0 0;
     background-size: 60%, auto;
     height: auto;
