@@ -204,7 +204,7 @@ p {
   background-color: #e7f8f600;
   flex-flow: column;
   width: 100%;
-  max-width: 1300px;
+  max-width: 1284px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -433,7 +433,7 @@ p {
 .container1100 {
   flex-flow: column;
   align-items: flex-start;
-  max-width: 1300px;
+  max-width: 1284px;
   display: flex;
 }
 
@@ -455,7 +455,7 @@ p {
 }
 
 .container-9 {
-  max-width: 1300px;
+  max-width: 1284px;
 }
 
 .btn-secondary {
@@ -738,7 +738,7 @@ p {
   }
 
   .content-1100 {
-    max-width: 1300px;
+    max-width: 1284px;
   }
 
   .btn-primary {
@@ -808,7 +808,7 @@ p {
   }
 
   .container1100 {
-    max-width: 1300px;
+    max-width: 1284px;
   }
 
   .dropdown-list-3 {
@@ -875,7 +875,7 @@ p {
     justify-content: flex-start;
     align-items: center;
     width: 100%;
-    max-width: 1300px;
+    max-width: 1284px;
     height: 100%;
     display: flex;
   }
@@ -885,7 +885,7 @@ p {
   }
 
   .nav-container {
-    max-width: 1300px;
+    max-width: 1284px;
   }
 
   .section-header {
@@ -944,7 +944,7 @@ p {
   }
 
   .content-1100 {
-    max-width: 1300px;
+    max-width: 1284px;
   }
 
   .btn-primary {
@@ -1449,7 +1449,7 @@ p {
     justify-content: space-around;
     align-items: center;
     display: flex;
-    max-width: 1300px;
+    max-width: 1284px;
   }
 
   .brand.w--current {
